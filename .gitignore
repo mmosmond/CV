@@ -7,3 +7,5 @@ OLD/
 OTHER/
 CVold/
 J1_2018/
+*.fdb_latexmk
+*.fls
